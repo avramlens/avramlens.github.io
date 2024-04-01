@@ -133,6 +133,10 @@ header h1 {
     .img-container {
         width: 45%; 
     }
+        img {
+        height: 30%;
+        width: 30%;
+    }
     header h1 {
         font-size: 1.8em; 
     }
